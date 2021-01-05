@@ -1,3 +1,3 @@
-# Avancement 06/11/2020
+# Avancement 05/01/2021
 
-- IA : Lancement de l'application sur un émulateur IOS (Test sur le mac de Loic)
+- ESP / T-LAW : Réunion avancement de l'ESP + travail de groupe pour le projet T-LAW
