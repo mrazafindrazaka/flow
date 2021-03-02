@@ -1,5 +1,3 @@
-# 01/03/2021
+# 02/03/2021
 
-- ESP : réunion weekly
-- RDV individuel
-- Réunion de préparation pour la keynote IA
+- Préparation de la keynote du projet big data
