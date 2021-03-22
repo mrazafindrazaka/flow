@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b656d23b-ebde-49b6-9853-f7f964fa1be6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +23,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ichtus-it/Tchat" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -46,7 +45,14 @@
       <workItem from="1604502090016" duration="811000" />
       <workItem from="1604829428230" duration="58000" />
       <workItem from="1605536179752" duration="1521000" />
-      <workItem from="1609860699194" duration="1120000" />
+      <workItem from="1609860699194" duration="1718000" />
+      <workItem from="1614612708349" duration="375000" />
+      <workItem from="1614699619237" duration="679000" />
+      <workItem from="1614763855798" duration="592000" />
+      <workItem from="1614785481562" duration="949000" />
+      <workItem from="1614848690036" duration="68000" />
+      <workItem from="1615214875908" duration="2788000" />
+      <workItem from="1615222587457" duration="973000" />
     </task>
     <task id="LOCAL-00001" summary="04/11/2020">
       <created>1604502412131</created>
@@ -62,7 +68,42 @@
       <option name="project" value="LOCAL" />
       <updated>1609861327502</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="05/01/2021">
+      <created>1609861839911</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609861839911</updated>
+    </task>
+    <task id="LOCAL-00004" summary="01/03/2021">
+      <created>1614612963198</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614612963198</updated>
+    </task>
+    <task id="LOCAL-00005" summary="02/03/2021">
+      <created>1614699707609</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1614699707609</updated>
+    </task>
+    <task id="LOCAL-00006" summary="03/03/2021">
+      <created>1614785514889</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1614785514889</updated>
+    </task>
+    <task id="LOCAL-00007" summary="08/03/2021">
+      <created>1615218894536</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1615218894536</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,6 +112,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="04/11/2020" />
     <MESSAGE value="05/01/2021" />
-    <option name="LAST_COMMIT_MESSAGE" value="05/01/2021" />
+    <MESSAGE value="01/03/2021" />
+    <MESSAGE value="02/03/2021" />
+    <MESSAGE value="03/03/2021" />
+    <MESSAGE value="08/03/2021" />
+    <option name="LAST_COMMIT_MESSAGE" value="08/03/2021" />
   </component>
 </project>
